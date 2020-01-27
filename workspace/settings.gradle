@@ -1,0 +1,3 @@
+rootProject.name = 'workspace'
+include 'micro-services-test-cases'
+include 'restful-test-automation-framework'
